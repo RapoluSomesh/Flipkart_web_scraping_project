@@ -2,6 +2,8 @@
 
 ## **web scraped dataset file link:** [mobiles_dataset](https://github.com/RapoluSomesh/Flipkart_web_scraping_project/blob/main/mobiles_dataset.csv)
 
+## **web scraped jupyter notebook file link:** [web scraping python](https://github.com/RapoluSomesh/Flipkart_web_scraping_project/blob/main/webscraping%20python.ipynb)
+
 ```python
 import requests
 import pandas as pd
