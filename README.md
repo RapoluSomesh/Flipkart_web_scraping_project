@@ -1,6 +1,6 @@
 # Flipkart Web Scraping Project
 
-## **web scraped dataset file link:** 
+## **web scraped dataset file link:** [mobiles_dataset](https://github.com/RapoluSomesh/Flipkart_web_scraping_project/blob/main/mobiles_dataset.csv)
 
 ```python
 import requests
